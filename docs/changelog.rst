@@ -5,6 +5,7 @@ CONTESSA CHANGELOG
 --------------------------------------------
 - refactor rules to use jinja2 as templating system
 - allow to configure time interval in `time_filter`
+- add ConsistencyChecker, supports rowcount comparison
 
 2019-10-09; 0.1.4;
 --------------------------------------------
